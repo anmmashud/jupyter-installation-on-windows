@@ -22,6 +22,11 @@ Before installing Jupyter, ensure that you have Python installed on your machine
 ```shell
 pip install notebook
 ```
+or 
+
+```shell
+pip install notebook
+```
 
 This will download and install the necessary Jupyter Notebook packages and dependencies.
 
