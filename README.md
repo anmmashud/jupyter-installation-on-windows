@@ -1,7 +1,3 @@
-Here's a guide for installing Jupyter Notebook on Windows:
-
----
-
 ## How to Install Jupyter Notebook on Windows
 
 Jupyter Notebook is an essential tool for data analysis, providing an interactive environment for writing and executing Python code. In this guide, we’ll walk you through the steps to install Jupyter Notebook on a Windows machine.
@@ -77,7 +73,3 @@ Here are some screenshots of the installation and usage process:
 ### **Conclusion**
 
 You’ve successfully installed and launched Jupyter Notebook on your Windows machine! You can now begin using it for your Python-based data analysis projects. Stay tuned for more tutorials on how to make the most of Jupyter Notebook for your data analysis workflow.
-
----
-
-This guide provides the step-by-step instructions for installing and using Jupyter Notebook on Windows. Let me know if you need any additional information!
