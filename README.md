@@ -20,7 +20,7 @@ Before installing Jupyter, ensure that you have Python installed on your machine
    In the Command Prompt, type the following command to install Jupyter using pip (Python's package manager):
 
 ```shell
-pip install notebook
+pip install jupyter
 ```
 or 
 
